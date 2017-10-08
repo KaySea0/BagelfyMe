@@ -1,3 +1,64 @@
 <resources>
     <string name="app_name">BagelfyMe</string>
+
+    <string name="welcome_text">BagelfyMe!</string>
+    <string name="startBtn">Start Quiz</string>
+
+    <string name="question1">1</string>
+    <string name="question2">2</string>
+    <string name="question3">3</string>
+    <string name="question4">4</string>
+    <string name="question5">5</string>
+
+    <string name="q1_text">Enter question here</string>
+    <string name="q1_option1">Option 1</string>
+    <string name="q1_option2">Option 2</string>
+    <string name="q1_option3">Option 3</string>
+    <string name="q1_option4">Option 4</string>
+    <string name="q1_option5">Option 5</string>
+    <string name="q1_option6">Option 6</string>
+
+    <string name="q2_text">Enter question here</string>
+    <string name="q2_option1">Option 1</string>
+    <string name="q2_option2">Option 2</string>
+    <string name="q2_option3">Option 3</string>
+    <string name="q2_option4">Option 4</string>
+    <string name="q2_option5">Option 5</string>
+    <string name="q2_option6">Option 6</string>
+
+    <string name="q3_text">Enter question here</string>
+    <string name="q3_option1">Option 1</string>
+    <string name="q3_option2">Option 2</string>
+    <string name="q3_option3">Option 3</string>
+    <string name="q3_option4">Option 4</string>
+    <string name="q3_option5">Option 5</string>
+    <string name="q3_option6">Option 6</string>
+
+    <string name="q4_text">Enter question here</string>
+    <string name="q4_option1">Option 1</string>
+    <string name="q4_option2">Option 2</string>
+    <string name="q4_option3">Option 3</string>
+    <string name="q4_option4">Option 4</string>
+    <string name="q4_option5">Option 5</string>
+    <string name="q4_option6">Option 6</string>
+
+    <string name="q5_text">Enter question here</string>
+    <string name="q5_option1">Option 1</string>
+    <string name="q5_option2">Option 2</string>
+    <string name="q5_option3">Option 3</string>
+    <string name="q5_option4">Option 4</string>
+    <string name="q5_option5">Option 5</string>
+    <string name="q5_option6">Option 6</string>
+
+    <string name="results">The results are in...</string>
+
+    <string name="plain_results">You are a plain bagel!</string>
+    <string name="plain_blurb">(insert blurb here)</string>
+
+    <string name="poppy_results">You are a poppy seed bagel</string>
+    <string name="wholegrain_results">You are a whole grain bagel!</string>
+    <string name="everything_results">You are an everything bagel!</string>
+    <string name="rainbow_results">You are a rainbow bagel!</string>
+    <string name="sourdough_results">You are sourdough toast!</string>
+
 </resources>
