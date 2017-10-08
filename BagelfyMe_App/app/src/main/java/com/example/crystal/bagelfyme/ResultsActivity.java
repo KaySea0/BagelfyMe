@@ -64,7 +64,7 @@ public class ResultsActivity extends Activity {
             case "6":
                 tvBagelID.setText(R.string.sourdough_results);
                 tvBagelBlurb.setText(R.string.sourdough_blurb);
-                ivBagel.setImageResource(R.drawable.plain);
+                ivBagel.setImageResource(R.drawable.sourdough);
                 break;
         }
     }
