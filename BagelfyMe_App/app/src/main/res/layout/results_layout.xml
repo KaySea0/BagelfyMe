@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:layout_width="match_parent" android:layout_height="match_parent">
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bkg3">
 
     <TextView
         android:id="@+id/tvResults"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
         android:layout_marginTop="28dp"
         android:text="@string/results"
         android:textSize="30sp"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/tvBigReveal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/tvBlurb"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="97dp"
         android:gravity="center_horizontal"
         android:text="@string/plain_results"
         android:textSize="25sp"
-        android:layout_alignBottom="@+id/tvBlurb"
-        android:layout_alignParentStart="true"
-        android:layout_marginBottom="97dp"
-        android:layout_alignParentEnd="true" />
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/tvBlurb"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
         android:layout_marginBottom="77dp"
         android:gravity="center_horizontal"
         android:text="@string/plain_blurb"
         android:textSize="20sp"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentStart="true" />
+        android:textStyle="bold" />
 
     <Button
         android:id="@+id/btnBack"

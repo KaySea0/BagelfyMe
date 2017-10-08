@@ -41,6 +41,7 @@ public class ResultsActivity extends Activity {
                 tvBagelID.setText(R.string.plain_results);
                 tvBagelBlurb.setText(R.string.plain_blurb);
                 ivBagel.setImageResource(R.drawable.plain);
+                break;
             case "2":
                 tvBagelID.setText(R.string.rainbow_results);
                 tvBagelBlurb.setText(R.string.rainbow_blurb);
