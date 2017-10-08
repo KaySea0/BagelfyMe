@@ -10,45 +10,45 @@
     <string name="question4">4</string>
     <string name="question5">5</string>
 
-    <string name="q1_text">Enter question here</string>
-    <string name="q1_option1">Option 1</string>
-    <string name="q1_option2">Option 2</string>
-    <string name="q1_option3">Option 3</string>
-    <string name="q1_option4">Option 4</string>
-    <string name="q1_option5">Option 5</string>
-    <string name="q1_option6">Option 6</string>
+    <string name="q1_text">In the event of a natural disaster...</string>
+    <string name="q1_option1">...you follow the appropriate procedures</string>
+    <string name="q1_option2">...you go on vacation</string>
+    <string name="q1_option3">...you research the credibility of weather reports</string>
+    <string name="q1_option4">...you build a shelter underground yourself</string>
+    <string name="q1_option5">...you stay positive and hide your chickens</string>
+    <string name="q1_option6">...you accept your fate</string>
 
-    <string name="q2_text">Enter question here</string>
-    <string name="q2_option1">Option 1</string>
-    <string name="q2_option2">Option 2</string>
-    <string name="q2_option3">Option 3</string>
-    <string name="q2_option4">Option 4</string>
-    <string name="q2_option5">Option 5</string>
-    <string name="q2_option6">Option 6</string>
+    <string name="q2_text">What condiment would you eat for the rest of your life?</string>
+    <string name="q2_option1">Ketchup</string>
+    <string name="q2_option2">Whipped cream</string>
+    <string name="q2_option3">Chutney</string>
+    <string name="q2_option4">Pesto</string>
+    <string name="q2_option5">Mustard</string>
+    <string name="q2_option6">None</string>
 
-    <string name="q3_text">Enter question here</string>
-    <string name="q3_option1">Option 1</string>
-    <string name="q3_option2">Option 2</string>
-    <string name="q3_option3">Option 3</string>
-    <string name="q3_option4">Option 4</string>
-    <string name="q3_option5">Option 5</string>
-    <string name="q3_option6">Option 6</string>
+    <string name="q3_text">What would you most likely get arrested for?</string>
+    <string name="q3_option1">You would not get arrested</string>
+    <string name="q3_option2">Dressing as the fashion police and giving people tickets</string>
+    <string name="q3_option3">Protesting too enthusiastically at a rally</string>
+    <string name="q3_option4">Not following dress code at a buffet</string>
+    <string name="q3_option5">Not following organic vegetable procedure</string>
+    <string name="q3_option6">Downloading movies</string>
 
-    <string name="q4_text">Enter question here</string>
-    <string name="q4_option1">Option 1</string>
-    <string name="q4_option2">Option 2</string>
-    <string name="q4_option3">Option 3</string>
-    <string name="q4_option4">Option 4</string>
-    <string name="q4_option5">Option 5</string>
-    <string name="q4_option6">Option 6</string>
+    <string name="q4_text">What travel experience sounds best to you?</string>
+    <string name="q4_option1">Theme park attractions with family</string>
+    <string name="q4_option2">Skydiving in Antarctica</string>
+    <string name="q4_option3">A private tour of a museum</string>
+    <string name="q4_option4">A zip-line through the wilderness</string>
+    <string name="q4_option5">Tractor racing</string>
+    <string name="q4_option6">A home-cation</string>
 
-    <string name="q5_text">Enter question here</string>
-    <string name="q5_option1">Option 1</string>
-    <string name="q5_option2">Option 2</string>
-    <string name="q5_option3">Option 3</string>
-    <string name="q5_option4">Option 4</string>
-    <string name="q5_option5">Option 5</string>
-    <string name="q5_option6">Option 6</string>
+    <string name="q5_text">Which statement best describes you?</string>
+    <string name="q5_option1">I drink the recommended daily amoung of water</string>
+    <string name="q5_option2">Shopping carts are adequate modes of transportation</string>
+    <string name="q5_option3">I use Shakespearean dramas as self-help books</string>
+    <string name="q5_option4">My BMI is approximately equal to the hours I spend hula-hooping</string>
+    <string name="q5_option5">The Greek alphabet scares me</string>
+    <string name="q5_option6">I use Amazon to grocery shop</string>
 
     <string name="results">The results are in...</string>
 
