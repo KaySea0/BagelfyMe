@@ -22,27 +22,29 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="40dp"
         android:text="@string/question1"
-        android:textSize="60sp"
+        android:textSize="75sp"
         android:textStyle="bold" />
 
     <TextView
         android:id="@+id/tvQuestion"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="32dp"
-        android:text="@string/q1_text"
-        android:textSize="20sp"
+        android:layout_marginTop="25dp"
+        android:gravity="center_horizontal"
+        android:text="@string/q2_text"
+        android:textSize="26sp"
         android:layout_below="@+id/tvQuestionNum"
-        android:layout_centerHorizontal="true" />
+        android:layout_alignParentStart="true" />
 
     <Button
         android:id="@+id/btnOption1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="24dp"
+        android:layout_marginTop="11dp"
         android:text="Button"
         android:layout_below="@+id/tvQuestion"
-        android:layout_centerHorizontal="true" />
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
 
     <Button
         android:id="@+id/btnOption2"
@@ -50,7 +52,8 @@
         android:layout_height="wrap_content"
         android:layout_alignEnd="@+id/btnOption1"
         android:layout_below="@+id/btnOption1"
-        android:text="Button" />
+        android:text="Button"
+        android:layout_alignParentStart="true" />
 
     <Button
         android:id="@+id/btnOption3"
@@ -58,7 +61,8 @@
         android:layout_height="wrap_content"
         android:layout_alignStart="@+id/btnOption2"
         android:layout_below="@+id/btnOption2"
-        android:text="Button" />
+        android:text="Button"
+        android:layout_alignParentEnd="true" />
 
     <Button
         android:id="@+id/btnOption4"
@@ -66,7 +70,8 @@
         android:layout_height="wrap_content"
         android:layout_alignStart="@+id/btnOption3"
         android:layout_below="@+id/btnOption3"
-        android:text="Button" />
+        android:text="Button"
+        android:layout_alignParentEnd="true" />
 
     <Button
         android:id="@+id/btnOption5"
@@ -74,7 +79,8 @@
         android:layout_height="wrap_content"
         android:layout_alignStart="@+id/btnOption4"
         android:layout_below="@+id/btnOption4"
-        android:text="Button" />
+        android:text="Button"
+        android:layout_alignParentEnd="true" />
 
     <Button
         android:id="@+id/btnOption6"
@@ -82,6 +88,7 @@
         android:layout_height="wrap_content"
         android:layout_alignStart="@+id/btnOption5"
         android:layout_below="@+id/btnOption5"
-        android:text="Button" />
+        android:text="Button"
+        android:layout_alignParentEnd="true" />
 
 </RelativeLayout>

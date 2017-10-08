@@ -56,9 +56,18 @@
     <string name="plain_blurb">(insert blurb here)</string>
 
     <string name="poppy_results">You are a poppy seed bagel</string>
-    <string name="wholegrain_results">You are a whole grain bagel!</string>
+    <string name="poppy_blurb">(insert blurb here)</string>
+
+    <string name="wholewheat_results">You are a whole grain bagel!</string>
+    <string name="wholewheat_blurb">(insert blurb here)</string>
+
     <string name="everything_results">You are an everything bagel!</string>
+    <string name="everything_blurb">(insert blurb here)</string>
+
     <string name="rainbow_results">You are a rainbow bagel!</string>
+    <string name="rainbow_blurb">(insert blurb here)</string>
+
     <string name="sourdough_results">You are sourdough toast!</string>
+    <string name="sourdough_blurb">(insert blurb here)</string>
 
 </resources>
