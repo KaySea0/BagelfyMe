@@ -4,11 +4,11 @@
     <string name="welcome_text">BagelfyMe!</string>
     <string name="startBtn">Start Quiz</string>
 
-    <string name="question1">1</string>
-    <string name="question2">2</string>
-    <string name="question3">3</string>
-    <string name="question4">4</string>
-    <string name="question5">5</string>
+    <string name="question1">Q.1</string>
+    <string name="question2">Q.2</string>
+    <string name="question3">Q.3</string>
+    <string name="question4">Q.4</string>
+    <string name="question5">Q.5</string>
 
     <string name="q1_text">In the event of a natural disaster...</string>
     <string name="q1_option1">...you follow the appropriate procedures</string>
@@ -56,10 +56,10 @@
     <string name="plain_blurb">You aren’t really special, but everyone loves you for some reason.</string>
 
     <string name="poppy_results">You are a poppy seed bagel</string>
-    <string name="poppy_blurb">You find love and comfort with your farm animals because they’re the only ones that understand you.</string>
+    <string name="poppy_blurb">You find love and comfort with your farm animals because they\’re the only ones that understand you.</string>
 
     <string name="wholewheat_results">You are a whole wheat bagel!</string>
-    <string name="wholewheat_blurb">You focus on natural ingredients without realizing that your personality is artificial. At least you're healthy!'</string>
+    <string name="wholewheat_blurb">You focus on natural ingredients without realizing that your personality is artificial. At least you\'re healthy!</string>
 
     <string name="everything_results">You are an everything bagel!</string>
     <string name="everything_blurb">You are the know-it-all of the bagel world and only a select few can tolerate you.</string>
@@ -69,5 +69,7 @@
 
     <string name="sourdough_results">You are sourdough toast!</string>
     <string name="sourdough_blurb">You aren’t even worthy enough to be a bagel because of your lack of unique features and depressive attitudes.</string>
+
+    <string name="backBtn">Back to main</string>
 
 </resources>

@@ -5,38 +5,25 @@ package com.example.crystal.bagelfyme;
  */
 
 public class bagelQuiz {
-    private int numPlain;
-    private int numRainbow;
-    private int numEverything;
-    private int numWholeWheat;
-    private int numPoppy;
-    private int numToast;
+    // plain,rainbow,everything,wholewheat,poppy,toast
+    private int[] allScores = new int[6];
 
     public void addValue(int val) {
-        switch (val) {
-            case 1:
-                numPlain++;
-                break;
-            case 2:
-                numRainbow++;
-                break;
-            case 3:
-                numEverything++;
-                break;
-            case 4:
-                numWholeWheat++;
-                break;
-            case 5:
-                numPoppy++;
-                break;
-            case 6:
-                numToast++;
-                break;
-        }
+        allScores[val-1]++;
     }
 
     // ugly on purpose, I swear.
     public int getBagel() {
-        return Math.max(numPlain,Math.max(numRainbow,Math.max(numWholeWheat,Math.max(numPoppy,numToast))));
+        int max = Integer.MIN_VALUE;
+        int indexMax = 0;
+
+        for (int i = 0; i < 6; i++) {
+            if (allScores[i] > max) {
+                max = allScores[i];
+                indexMax = i;
+            }
+        }
+
+        return indexMax+1;
     }
 }

@@ -27,10 +27,11 @@
             android:id="@+id/btnStart"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="57dp"
-            android:text="@string/startBtn"
-            android:textSize="25sp"
             android:layout_alignParentBottom="true"
-            android:layout_centerHorizontal="true" />
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="57dp"
+            android:onClick="gotoQuestions"
+            android:text="@string/startBtn"
+            android:textSize="25sp" />
     </RelativeLayout>
 </android.support.constraint.ConstraintLayout>
