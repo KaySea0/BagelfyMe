@@ -53,21 +53,21 @@
     <string name="results">The results are in...</string>
 
     <string name="plain_results">You are a plain bagel!</string>
-    <string name="plain_blurb">(insert blurb here)</string>
+    <string name="plain_blurb">You aren’t really special, but everyone loves you for some reason.</string>
 
     <string name="poppy_results">You are a poppy seed bagel</string>
-    <string name="poppy_blurb">(insert blurb here)</string>
+    <string name="poppy_blurb">You find love and comfort with your farm animals because they’re the only ones that understand you.</string>
 
-    <string name="wholewheat_results">You are a whole grain bagel!</string>
-    <string name="wholewheat_blurb">(insert blurb here)</string>
+    <string name="wholewheat_results">You are a whole wheat bagel!</string>
+    <string name="wholewheat_blurb">You focus on natural ingredients without realizing that your personality is artificial. At least you're healthy!'</string>
 
     <string name="everything_results">You are an everything bagel!</string>
-    <string name="everything_blurb">(insert blurb here)</string>
+    <string name="everything_blurb">You are the know-it-all of the bagel world and only a select few can tolerate you.</string>
 
     <string name="rainbow_results">You are a rainbow bagel!</string>
-    <string name="rainbow_blurb">(insert blurb here)</string>
+    <string name="rainbow_blurb">You are a try-hard plain bagel, but you look cool.</string>
 
     <string name="sourdough_results">You are sourdough toast!</string>
-    <string name="sourdough_blurb">(insert blurb here)</string>
+    <string name="sourdough_blurb">You aren’t even worthy enough to be a bagel because of your lack of unique features and depressive attitudes.</string>
 
 </resources>
